@@ -1,0 +1,13 @@
+# Site settings
+title: Kari Wong
+email: info.wickedpixiedesign@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Freelance Graphic Designer
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wickedpixiedesign.github.io" # the base hostname & protocol for your site
+twitter_username: wickedpixie30
+github_username:  kmwong
+
+# Build settings
+markdown: kramdown
